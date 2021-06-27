@@ -1,2 +1,2 @@
 # vue_learning_project
-vue.js 備忘録
+vue.js 学習備忘録
